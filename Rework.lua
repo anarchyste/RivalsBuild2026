@@ -2350,7 +2350,7 @@ banner.BackgroundTransparency = 1
 banner.Font = Enum.Font.GothamBold
 banner.TextSize = 14
 banner.TextColor3 = COLORS.textDim
-banner.Text = "Your Desires - Built By Primesto.fx"
+banner.Text = "Easy Service(s) - Anarchy Build 2026"
 banner.TextXAlignment = Enum.TextXAlignment.Center
 banner.TextYAlignment = Enum.TextYAlignment.Center
 banner.ZIndex = 60
@@ -6150,6 +6150,7 @@ end
 
 
 -- ** Like a wise man once said, "Show me the client's state, and I'll show you the perfect hook." - some guy lol ** --
+
 
 
 
